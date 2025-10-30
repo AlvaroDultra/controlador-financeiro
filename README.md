@@ -18,7 +18,7 @@ Este projeto é uma aplicação fullstack desenvolvida com o objetivo de gerenci
 - **React 19**: Biblioteca principal para criação da interface do usuário.
 - **Vite**: Ferramenta de build e dev server ultrarrápido para React.
 - **Axios**: Cliente HTTP usado para comunicação com a API.
-- **TailwindCSS** *(opcional)*: Utilizado para estilização rápida, caso desejado.
+
 
 ---
 
